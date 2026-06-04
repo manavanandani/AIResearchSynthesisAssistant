@@ -1,0 +1,1 @@
+"""AIResearchSynthesisAssistant package."""
