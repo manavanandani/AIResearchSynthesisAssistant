@@ -1,0 +1,2562 @@
+[
+  {
+    "feedback_id": "RESP-001",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "The initial onboarding checklist is really confusing when inviting team members to a newly created space.",
+    "nps_score": 6,
+    "timestamp": "2026-05-08T11:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-002",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-01T10:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-003",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Feedback: Setting up our company account took forever because the first-run guide crashed midway through. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-23T17:36:00Z"
+  },
+  {
+    "feedback_id": "RESP-004",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Feedback: New users on our team don't understand how to create their first project board or add initial columns. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-25T11:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-005",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T14:16:00Z"
+  },
+  {
+    "feedback_id": "RESP-006",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Onboarding flow lacks clear explanations of workspace permission levels and admin access roles. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-20T13:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-007",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: We had three new hires try to join today and none of them received the initial activation email. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-18T13:50:00Z"
+  },
+  {
+    "feedback_id": "RESP-008",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: The workspace onboarding setup was frustrating because it required phone verification immediately. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-02T12:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-009",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T16:50:00Z"
+  },
+  {
+    "feedback_id": "RESP-010",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-22T13:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-011",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "The initial onboarding checklist is really confusing when inviting team members to a newly created space. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-06T16:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-012",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-08T09:30:00Z"
+  },
+  {
+    "feedback_id": "RESP-013",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: Setting up our company account took forever because the first-run guide crashed midway through. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-07T16:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-014",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: New users on our team don't understand how to create their first project board or add initial columns. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-24T17:44:00Z"
+  },
+  {
+    "feedback_id": "RESP-015",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-08T11:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-016",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: Onboarding flow lacks clear explanations of workspace permission levels and admin access roles.",
+    "nps_score": 6,
+    "timestamp": "2026-05-21T11:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-017",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: We had three new hires try to join today and none of them received the initial activation email. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-20T16:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-018",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: The workspace onboarding setup was frustrating because it required phone verification immediately. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T14:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-019",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-24T13:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-020",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-05T14:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-021",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Feedback: The initial onboarding checklist is really confusing when inviting team members to a newly created space. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-16T09:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-022",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-19T10:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-023",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: Setting up our company account took forever because the first-run guide crashed midway through.",
+    "nps_score": 6,
+    "timestamp": "2026-05-22T16:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-024",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Feedback: New users on our team don't understand how to create their first project board or add initial columns. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-18T12:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-025",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-17T16:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-026",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Onboarding flow lacks clear explanations of workspace permission levels and admin access roles. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-19T17:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-027",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: We had three new hires try to join today and none of them received the initial activation email. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-08T10:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-028",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: The workspace onboarding setup was frustrating because it required phone verification immediately.",
+    "nps_score": 7,
+    "timestamp": "2026-05-22T16:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-029",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-26T16:36:00Z"
+  },
+  {
+    "feedback_id": "RESP-030",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login.",
+    "nps_score": 7,
+    "timestamp": "2026-05-14T15:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-031",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "The initial onboarding checklist is really confusing when inviting team members to a newly created space.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T10:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-032",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Feedback: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-14T11:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-033",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Setting up our company account took forever because the first-run guide crashed midway through. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-02T17:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-034",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "New users on our team don't understand how to create their first project board or add initial columns. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-16T12:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-035",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T16:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-036",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Onboarding flow lacks clear explanations of workspace permission levels and admin access roles. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-07T13:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-037",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "We had three new hires try to join today and none of them received the initial activation email. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-02T09:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-038",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: The workspace onboarding setup was frustrating because it required phone verification immediately. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-17T10:21:00Z"
+  },
+  {
+    "feedback_id": "RESP-039",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-04T18:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-040",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-22T18:46:00Z"
+  },
+  {
+    "feedback_id": "RESP-041",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: The initial onboarding checklist is really confusing when inviting team members to a newly created space. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-08T13:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-042",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Feedback: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-01T16:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-043",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: Setting up our company account took forever because the first-run guide crashed midway through.",
+    "nps_score": 7,
+    "timestamp": "2026-05-05T14:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-044",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Feedback: New users on our team don't understand how to create their first project board or add initial columns. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-27T17:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-045",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-22T10:18:00Z"
+  },
+  {
+    "feedback_id": "RESP-046",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: Onboarding flow lacks clear explanations of workspace permission levels and admin access roles.",
+    "nps_score": 7,
+    "timestamp": "2026-05-10T18:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-047",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: We had three new hires try to join today and none of them received the initial activation email. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T09:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-048",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Pain Point: The workspace onboarding setup was frustrating because it required phone verification immediately. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T11:50:00Z"
+  },
+  {
+    "feedback_id": "RESP-049",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-18T09:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-050",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-19T17:19:00Z"
+  },
+  {
+    "feedback_id": "RESP-051",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: The initial onboarding checklist is really confusing when inviting team members to a newly created space. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T09:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-052",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Feedback: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T17:36:00Z"
+  },
+  {
+    "feedback_id": "RESP-053",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Critical Issue: Setting up our company account took forever because the first-run guide crashed midway through. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-14T09:21:00Z"
+  },
+  {
+    "feedback_id": "RESP-054",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: New users on our team don't understand how to create their first project board or add initial columns. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-06T10:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-055",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "The welcome modal keeps popping up every time I log in and won't remember dismissal across sessions. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-12T13:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-056",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Feedback: Onboarding flow lacks clear explanations of workspace permission levels and admin access roles.",
+    "nps_score": 8,
+    "timestamp": "2026-05-11T13:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-057",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: We had three new hires try to join today and none of them received the initial activation email. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-01T10:26:00Z"
+  },
+  {
+    "feedback_id": "RESP-058",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Feedback: The workspace onboarding setup was frustrating because it required phone verification immediately. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-20T15:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-059",
+    "source": "User Interview",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: Empty state screens provide zero contextual hints for how to populate tasks or invite collaborators. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-19T12:26:00Z"
+  },
+  {
+    "feedback_id": "RESP-060",
+    "source": "CSAT Survey",
+    "user_segment": "New Trial User",
+    "text": "Getting started tutorial feels overwhelming with too many tooltips firing simultaneously on first login. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-14T10:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-061",
+    "source": "Support Ticket",
+    "user_segment": "New Trial User",
+    "text": "Customer Note: The initial onboarding checklist is really confusing when inviting team members to a newly created space. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-17T13:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-062",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: I tried to setup my new workspace but got stuck on the teammate invite step with no clear error message. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-07T15:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-063",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Setting up our company account took forever because the first-run guide crashed midway through. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-18T09:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-064",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: New users on our team don't understand how to create their first project board or add initial columns. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-15T16:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-065",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Global search is painfully slow when looking up archived documents across nested team folders. This impacts our organization's daily productivity.",
+    "nps_score": 3,
+    "timestamp": "2026-05-22T10:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-066",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Every time I type in the search bar it takes 5 seconds for results to populate on screen. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-22T13:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-067",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Platform search latency makes it almost impossible to quickly find client notes during live meetings. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-16T18:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-068",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Search feels laggy and frequently fails to return recently created files or newly tagged tickets. We really need a solution for this workflow blocker.",
+    "nps_score": 3,
+    "timestamp": "2026-05-23T15:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-069",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. This is causing significant friction for our team daily.",
+    "nps_score": 2,
+    "timestamp": "2026-05-25T10:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-070",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-02T17:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-071",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Search indexing seems broken because newly created epics don't show up in search results for hours. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T16:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-072",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-24T16:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-073",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-21T12:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-074",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Autocomplete suggestions in search are delayed and often display stale cached queries.",
+    "nps_score": 6,
+    "timestamp": "2026-05-09T14:30:00Z"
+  },
+  {
+    "feedback_id": "RESP-075",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Global search is painfully slow when looking up archived documents across nested team folders.",
+    "nps_score": 3,
+    "timestamp": "2026-05-13T11:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-076",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Every time I type in the search bar it takes 5 seconds for results to populate on screen.",
+    "nps_score": 7,
+    "timestamp": "2026-05-18T16:36:00Z"
+  },
+  {
+    "feedback_id": "RESP-077",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Platform search latency makes it almost impossible to quickly find client notes during live meetings. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-28T18:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-078",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Search feels laggy and frequently fails to return recently created files or newly tagged tickets.",
+    "nps_score": 5,
+    "timestamp": "2026-05-28T15:44:00Z"
+  },
+  {
+    "feedback_id": "RESP-079",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. This impacts our organization's daily productivity.",
+    "nps_score": 3,
+    "timestamp": "2026-05-09T15:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-080",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-24T11:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-081",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Search indexing seems broken because newly created epics don't show up in search results for hours. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-19T18:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-082",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error.",
+    "nps_score": 6,
+    "timestamp": "2026-05-28T16:21:00Z"
+  },
+  {
+    "feedback_id": "RESP-083",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-15T14:31:00Z"
+  },
+  {
+    "feedback_id": "RESP-084",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Autocomplete suggestions in search are delayed and often display stale cached queries. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-16T09:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-085",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Global search is painfully slow when looking up archived documents across nested team folders.",
+    "nps_score": 2,
+    "timestamp": "2026-05-25T09:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-086",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Every time I type in the search bar it takes 5 seconds for results to populate on screen. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-08T11:40:00Z"
+  },
+  {
+    "feedback_id": "RESP-087",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Platform search latency makes it almost impossible to quickly find client notes during live meetings. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T14:20:00Z"
+  },
+  {
+    "feedback_id": "RESP-088",
+    "source": "App Store Review",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Search feels laggy and frequently fails to return recently created files or newly tagged tickets. This impacts our organization's daily productivity.",
+    "nps_score": 2,
+    "timestamp": "2026-05-25T11:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-089",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-13T12:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-090",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-28T18:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-091",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Search indexing seems broken because newly created epics don't show up in search results for hours.",
+    "nps_score": 8,
+    "timestamp": "2026-05-22T14:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-092",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-04T15:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-093",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-20T17:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-094",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Autocomplete suggestions in search are delayed and often display stale cached queries. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-11T12:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-095",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Global search is painfully slow when looking up archived documents across nested team folders. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-11T09:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-096",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Every time I type in the search bar it takes 5 seconds for results to populate on screen. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T13:31:00Z"
+  },
+  {
+    "feedback_id": "RESP-097",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Platform search latency makes it almost impossible to quickly find client notes during live meetings. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-17T12:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-098",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Search feels laggy and frequently fails to return recently created files or newly tagged tickets. We really need a solution for this workflow blocker.",
+    "nps_score": 3,
+    "timestamp": "2026-05-23T16:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-099",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. We really need a solution for this workflow blocker.",
+    "nps_score": 4,
+    "timestamp": "2026-05-08T15:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-100",
+    "source": "App Store Review",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-16T17:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-101",
+    "source": "App Store Review",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Search indexing seems broken because newly created epics don't show up in search results for hours. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-12T16:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-102",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-11T10:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-103",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T18:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-104",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Autocomplete suggestions in search are delayed and often display stale cached queries. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-10T12:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-105",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Global search is painfully slow when looking up archived documents across nested team folders. Please prioritize fixing this in the next release.",
+    "nps_score": 3,
+    "timestamp": "2026-05-09T09:13:00Z"
+  },
+  {
+    "feedback_id": "RESP-106",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Every time I type in the search bar it takes 5 seconds for results to populate on screen. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-04T09:46:00Z"
+  },
+  {
+    "feedback_id": "RESP-107",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Platform search latency makes it almost impossible to quickly find client notes during live meetings. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-06T09:26:00Z"
+  },
+  {
+    "feedback_id": "RESP-108",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Search feels laggy and frequently fails to return recently created files or newly tagged tickets.",
+    "nps_score": 5,
+    "timestamp": "2026-05-03T18:50:00Z"
+  },
+  {
+    "feedback_id": "RESP-109",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. This is causing significant friction for our team daily.",
+    "nps_score": 4,
+    "timestamp": "2026-05-03T12:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-110",
+    "source": "App Store Review",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T17:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-111",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Search indexing seems broken because newly created epics don't show up in search results for hours. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-10T18:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-112",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-21T12:26:00Z"
+  },
+  {
+    "feedback_id": "RESP-113",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-06T09:36:00Z"
+  },
+  {
+    "feedback_id": "RESP-114",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Autocomplete suggestions in search are delayed and often display stale cached queries. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-08T13:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-115",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Global search is painfully slow when looking up archived documents across nested team folders. We really need a solution for this workflow blocker.",
+    "nps_score": 3,
+    "timestamp": "2026-05-09T18:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-116",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Every time I type in the search bar it takes 5 seconds for results to populate on screen. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-21T11:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-117",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Platform search latency makes it almost impossible to quickly find client notes during live meetings.",
+    "nps_score": 7,
+    "timestamp": "2026-05-20T18:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-118",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Search feels laggy and frequently fails to return recently created files or newly tagged tickets.",
+    "nps_score": 4,
+    "timestamp": "2026-05-23T15:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-119",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: The app slows down to a crawl when opening large tables with more than 50 rows and custom columns. This impacts our organization's daily productivity.",
+    "nps_score": 2,
+    "timestamp": "2026-05-20T09:37:00Z"
+  },
+  {
+    "feedback_id": "RESP-120",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Typing has significant lag on long documents, especially when multiple people are viewing simultaneously. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-08T18:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-121",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Search indexing seems broken because newly created epics don't show up in search results for hours. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-16T17:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-122",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Searching by tag or assignee takes way too long and sometimes times out with an unexpected 504 error. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-21T16:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-123",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Filter queries take several seconds to refresh the dashboard view and freeze the browser tab. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-22T10:20:00Z"
+  },
+  {
+    "feedback_id": "RESP-124",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Autocomplete suggestions in search are delayed and often display stale cached queries. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-22T15:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-125",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Global search is painfully slow when looking up archived documents across nested team folders.",
+    "nps_score": 4,
+    "timestamp": "2026-05-09T14:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-126",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Every time I type in the search bar it takes 5 seconds for results to populate on screen. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-14T09:22:00Z"
+  },
+  {
+    "feedback_id": "RESP-127",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Platform search latency makes it almost impossible to quickly find client notes during live meetings. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-25T09:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-128",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Search feels laggy and frequently fails to return recently created files or newly tagged tickets. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-23T16:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-129",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "We were billed for inactive seats that were deactivated two weeks ago by our IT administrator. This impacts our organization's daily productivity.",
+    "nps_score": 4,
+    "timestamp": "2026-05-18T09:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-130",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: There is no self-serve way to download past PDF invoices for our internal accounting department.",
+    "nps_score": 8,
+    "timestamp": "2026-05-04T11:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-131",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Upgrading our billing tier was confusing and accidentally charged our corporate card twice. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-27T16:40:00Z"
+  },
+  {
+    "feedback_id": "RESP-132",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: We need clearer visibility into user seat utilization and pending invites before the renewal date. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-07T18:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-133",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Feedback: The subscription management portal is hidden deep within settings and hard to navigate.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T17:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-134",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-28T11:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-135",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: We wanted to switch from monthly to annual billing but customer support took 4 days to respond. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-15T14:22:00Z"
+  },
+  {
+    "feedback_id": "RESP-136",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Why is there no warning email sent before automatically renewing our enterprise annual plan? This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-02T14:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-137",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Seat deallocation does not credit prorated amounts back to the workspace billing balance. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-02T11:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-138",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Credit card updates fail silently without triggering an administrative alert or retry notice. Please prioritize fixing this in the next release.",
+    "nps_score": 2,
+    "timestamp": "2026-05-17T16:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-139",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: We were billed for inactive seats that were deactivated two weeks ago by our IT administrator. We really need a solution for this workflow blocker.",
+    "nps_score": 2,
+    "timestamp": "2026-05-16T13:31:00Z"
+  },
+  {
+    "feedback_id": "RESP-140",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: There is no self-serve way to download past PDF invoices for our internal accounting department. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-28T17:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-141",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Upgrading our billing tier was confusing and accidentally charged our corporate card twice. We really need a solution for this workflow blocker.",
+    "nps_score": 2,
+    "timestamp": "2026-05-08T13:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-142",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "We need clearer visibility into user seat utilization and pending invites before the renewal date. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-06T13:11:00Z"
+  },
+  {
+    "feedback_id": "RESP-143",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "The subscription management portal is hidden deep within settings and hard to navigate. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-12T15:19:00Z"
+  },
+  {
+    "feedback_id": "RESP-144",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-06T10:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-145",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: We wanted to switch from monthly to annual billing but customer support took 4 days to respond. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-19T11:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-146",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Why is there no warning email sent before automatically renewing our enterprise annual plan? Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-26T16:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-147",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Seat deallocation does not credit prorated amounts back to the workspace billing balance. This is causing significant friction for our team daily.",
+    "nps_score": 4,
+    "timestamp": "2026-05-19T13:50:00Z"
+  },
+  {
+    "feedback_id": "RESP-148",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Credit card updates fail silently without triggering an administrative alert or retry notice. Please prioritize fixing this in the next release.",
+    "nps_score": 3,
+    "timestamp": "2026-05-13T16:16:00Z"
+  },
+  {
+    "feedback_id": "RESP-149",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: We were billed for inactive seats that were deactivated two weeks ago by our IT administrator. We really need a solution for this workflow blocker.",
+    "nps_score": 4,
+    "timestamp": "2026-05-23T13:11:00Z"
+  },
+  {
+    "feedback_id": "RESP-150",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: There is no self-serve way to download past PDF invoices for our internal accounting department. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-27T13:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-151",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Upgrading our billing tier was confusing and accidentally charged our corporate card twice. This impacts our organization's daily productivity.",
+    "nps_score": 3,
+    "timestamp": "2026-05-20T13:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-152",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: We need clearer visibility into user seat utilization and pending invites before the renewal date.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T16:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-153",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: The subscription management portal is hidden deep within settings and hard to navigate. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-10T14:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-154",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-17T17:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-155",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Feedback: We wanted to switch from monthly to annual billing but customer support took 4 days to respond. Please prioritize fixing this in the next release.",
+    "nps_score": 4,
+    "timestamp": "2026-05-26T10:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-156",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Why is there no warning email sent before automatically renewing our enterprise annual plan? This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-03T15:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-157",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Seat deallocation does not credit prorated amounts back to the workspace billing balance. This impacts our organization's daily productivity.",
+    "nps_score": 4,
+    "timestamp": "2026-05-22T13:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-158",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Credit card updates fail silently without triggering an administrative alert or retry notice. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-01T18:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-159",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: We were billed for inactive seats that were deactivated two weeks ago by our IT administrator. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-23T13:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-160",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: There is no self-serve way to download past PDF invoices for our internal accounting department.",
+    "nps_score": 5,
+    "timestamp": "2026-05-10T16:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-161",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Upgrading our billing tier was confusing and accidentally charged our corporate card twice. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-15T14:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-162",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: We need clearer visibility into user seat utilization and pending invites before the renewal date. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-21T10:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-163",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: The subscription management portal is hidden deep within settings and hard to navigate. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-07T16:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-164",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-02T15:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-165",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: We wanted to switch from monthly to annual billing but customer support took 4 days to respond.",
+    "nps_score": 3,
+    "timestamp": "2026-05-21T18:11:00Z"
+  },
+  {
+    "feedback_id": "RESP-166",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Why is there no warning email sent before automatically renewing our enterprise annual plan? Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-03T17:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-167",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Seat deallocation does not credit prorated amounts back to the workspace billing balance. This is causing significant friction for our team daily.",
+    "nps_score": 3,
+    "timestamp": "2026-05-26T18:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-168",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Credit card updates fail silently without triggering an administrative alert or retry notice. This is causing significant friction for our team daily.",
+    "nps_score": 3,
+    "timestamp": "2026-05-04T09:18:00Z"
+  },
+  {
+    "feedback_id": "RESP-169",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "We were billed for inactive seats that were deactivated two weeks ago by our IT administrator. Please prioritize fixing this in the next release.",
+    "nps_score": 2,
+    "timestamp": "2026-05-06T13:13:00Z"
+  },
+  {
+    "feedback_id": "RESP-170",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: There is no self-serve way to download past PDF invoices for our internal accounting department. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-16T16:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-171",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Upgrading our billing tier was confusing and accidentally charged our corporate card twice. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-17T12:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-172",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "We need clearer visibility into user seat utilization and pending invites before the renewal date. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-02T16:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-173",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: The subscription management portal is hidden deep within settings and hard to navigate.",
+    "nps_score": 5,
+    "timestamp": "2026-05-03T14:48:00Z"
+  },
+  {
+    "feedback_id": "RESP-174",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns.",
+    "nps_score": 7,
+    "timestamp": "2026-05-13T18:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-175",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: We wanted to switch from monthly to annual billing but customer support took 4 days to respond. We really need a solution for this workflow blocker.",
+    "nps_score": 2,
+    "timestamp": "2026-05-26T10:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-176",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Why is there no warning email sent before automatically renewing our enterprise annual plan? This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-14T14:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-177",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Seat deallocation does not credit prorated amounts back to the workspace billing balance. We really need a solution for this workflow blocker.",
+    "nps_score": 4,
+    "timestamp": "2026-05-14T14:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-178",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Credit card updates fail silently without triggering an administrative alert or retry notice. Please prioritize fixing this in the next release.",
+    "nps_score": 2,
+    "timestamp": "2026-05-03T10:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-179",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: We were billed for inactive seats that were deactivated two weeks ago by our IT administrator.",
+    "nps_score": 3,
+    "timestamp": "2026-05-18T09:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-180",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: There is no self-serve way to download past PDF invoices for our internal accounting department. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-12T15:56:00Z"
+  },
+  {
+    "feedback_id": "RESP-181",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Upgrading our billing tier was confusing and accidentally charged our corporate card twice. Please prioritize fixing this in the next release.",
+    "nps_score": 4,
+    "timestamp": "2026-05-04T18:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-182",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: We need clearer visibility into user seat utilization and pending invites before the renewal date. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-28T10:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-183",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: The subscription management portal is hidden deep within settings and hard to navigate. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-26T15:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-184",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Our finance team cannot reconcile the monthly statement without detailed line-item tax breakdowns. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-01T11:27:00Z"
+  },
+  {
+    "feedback_id": "RESP-185",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: We wanted to switch from monthly to annual billing but customer support took 4 days to respond. Please prioritize fixing this in the next release.",
+    "nps_score": 3,
+    "timestamp": "2026-05-28T11:46:00Z"
+  },
+  {
+    "feedback_id": "RESP-186",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Why is there no warning email sent before automatically renewing our enterprise annual plan?",
+    "nps_score": 5,
+    "timestamp": "2026-05-24T17:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-187",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Seat deallocation does not credit prorated amounts back to the workspace billing balance. We really need a solution for this workflow blocker.",
+    "nps_score": 3,
+    "timestamp": "2026-05-12T13:56:00Z"
+  },
+  {
+    "feedback_id": "RESP-188",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Credit card updates fail silently without triggering an administrative alert or retry notice. This impacts our organization's daily productivity.",
+    "nps_score": 2,
+    "timestamp": "2026-05-05T11:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-189",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: We were billed for inactive seats that were deactivated two weeks ago by our IT administrator.",
+    "nps_score": 4,
+    "timestamp": "2026-05-15T15:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-190",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: There is no self-serve way to download past PDF invoices for our internal accounting department. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T17:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-191",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Upgrading our billing tier was confusing and accidentally charged our corporate card twice. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-17T13:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-192",
+    "source": "CSAT Survey",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: We need clearer visibility into user seat utilization and pending invites before the renewal date. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-07T13:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-193",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: When two people edit the same document simultaneously, text blocks frequently get overwritten. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-01T16:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-194",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Real-time cursor presence is jerky and does not accurately track where my colleague is typing. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-17T17:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-195",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred.",
+    "nps_score": 8,
+    "timestamp": "2026-05-01T16:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-196",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: We experienced a sync collision where comments were duplicated four times on the same board card. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-10T10:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-197",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-03T15:16:00Z"
+  },
+  {
+    "feedback_id": "RESP-198",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-13T13:57:00Z"
+  },
+  {
+    "feedback_id": "RESP-199",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Collaborative editing needs version rollback history so we can recover deleted paragraphs safely. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-17T10:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-200",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-08T10:19:00Z"
+  },
+  {
+    "feedback_id": "RESP-201",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Presence avatars often show teammates as active when they closed their laptop tabs hours ago. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-06T16:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-202",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Simultaneous table cell updates overwrite adjacent cells without notifying active editors. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-05T16:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-203",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: When two people edit the same document simultaneously, text blocks frequently get overwritten. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-19T09:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-204",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Real-time cursor presence is jerky and does not accurately track where my colleague is typing.",
+    "nps_score": 8,
+    "timestamp": "2026-05-02T09:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-205",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred.",
+    "nps_score": 8,
+    "timestamp": "2026-05-15T18:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-206",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "We experienced a sync collision where comments were duplicated four times on the same board card. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-20T16:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-207",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives.",
+    "nps_score": 7,
+    "timestamp": "2026-05-23T10:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-208",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document.",
+    "nps_score": 8,
+    "timestamp": "2026-05-17T17:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-209",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Collaborative editing needs version rollback history so we can recover deleted paragraphs safely. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-14T14:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-210",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions.",
+    "nps_score": 5,
+    "timestamp": "2026-05-11T10:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-211",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Presence avatars often show teammates as active when they closed their laptop tabs hours ago. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-03T18:52:00Z"
+  },
+  {
+    "feedback_id": "RESP-212",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Simultaneous table cell updates overwrite adjacent cells without notifying active editors. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-20T10:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-213",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: When two people edit the same document simultaneously, text blocks frequently get overwritten. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-22T17:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-214",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Real-time cursor presence is jerky and does not accurately track where my colleague is typing. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-10T11:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-215",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-05T10:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-216",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "We experienced a sync collision where comments were duplicated four times on the same board card. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T18:18:00Z"
+  },
+  {
+    "feedback_id": "RESP-217",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-27T18:20:00Z"
+  },
+  {
+    "feedback_id": "RESP-218",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document.",
+    "nps_score": 6,
+    "timestamp": "2026-05-15T18:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-219",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Collaborative editing needs version rollback history so we can recover deleted paragraphs safely. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T16:22:00Z"
+  },
+  {
+    "feedback_id": "RESP-220",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-25T15:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-221",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Presence avatars often show teammates as active when they closed their laptop tabs hours ago. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-28T13:13:00Z"
+  },
+  {
+    "feedback_id": "RESP-222",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Simultaneous table cell updates overwrite adjacent cells without notifying active editors. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-10T10:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-223",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: When two people edit the same document simultaneously, text blocks frequently get overwritten. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-03T12:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-224",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Real-time cursor presence is jerky and does not accurately track where my colleague is typing.",
+    "nps_score": 8,
+    "timestamp": "2026-05-17T14:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-225",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred.",
+    "nps_score": 5,
+    "timestamp": "2026-05-11T10:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-226",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: We experienced a sync collision where comments were duplicated four times on the same board card. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-27T16:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-227",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-01T13:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-228",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-25T13:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-229",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Collaborative editing needs version rollback history so we can recover deleted paragraphs safely.",
+    "nps_score": 8,
+    "timestamp": "2026-05-21T18:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-230",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions.",
+    "nps_score": 6,
+    "timestamp": "2026-05-23T11:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-231",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Presence avatars often show teammates as active when they closed their laptop tabs hours ago.",
+    "nps_score": 6,
+    "timestamp": "2026-05-19T15:21:00Z"
+  },
+  {
+    "feedback_id": "RESP-232",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Simultaneous table cell updates overwrite adjacent cells without notifying active editors. This impacts our organization's daily productivity.",
+    "nps_score": 5,
+    "timestamp": "2026-05-13T16:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-233",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: When two people edit the same document simultaneously, text blocks frequently get overwritten. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T10:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-234",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Real-time cursor presence is jerky and does not accurately track where my colleague is typing.",
+    "nps_score": 6,
+    "timestamp": "2026-05-02T14:44:00Z"
+  },
+  {
+    "feedback_id": "RESP-235",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-21T11:18:00Z"
+  },
+  {
+    "feedback_id": "RESP-236",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "We experienced a sync collision where comments were duplicated four times on the same board card. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-02T12:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-237",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T09:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-238",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-09T10:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-239",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Collaborative editing needs version rollback history so we can recover deleted paragraphs safely. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-11T11:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-240",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-24T15:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-241",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Presence avatars often show teammates as active when they closed their laptop tabs hours ago. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-04T10:30:00Z"
+  },
+  {
+    "feedback_id": "RESP-242",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Simultaneous table cell updates overwrite adjacent cells without notifying active editors. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-23T16:32:00Z"
+  },
+  {
+    "feedback_id": "RESP-243",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: When two people edit the same document simultaneously, text blocks frequently get overwritten.",
+    "nps_score": 8,
+    "timestamp": "2026-05-09T09:14:00Z"
+  },
+  {
+    "feedback_id": "RESP-244",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Real-time cursor presence is jerky and does not accurately track where my colleague is typing. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-05T18:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-245",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T14:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-246",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: We experienced a sync collision where comments were duplicated four times on the same board card. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-12T14:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-247",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Live updates lag behind by 10 to 15 seconds during team sprint grooming and live retrospectives. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-11T13:25:00Z"
+  },
+  {
+    "feedback_id": "RESP-248",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Co-editing works okay for two people but completely desyncs when 5 or more teammates join the document.",
+    "nps_score": 8,
+    "timestamp": "2026-05-17T15:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-249",
+    "source": "CSAT Survey",
+    "user_segment": "Team Lead",
+    "text": "Collaborative editing needs version rollback history so we can recover deleted paragraphs safely. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-20T13:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-250",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Conflicts happen constantly if someone has a spotty wifi connection during collaborative sessions. This is causing significant friction for our team daily.",
+    "nps_score": 5,
+    "timestamp": "2026-05-15T11:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-251",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Presence avatars often show teammates as active when they closed their laptop tabs hours ago.",
+    "nps_score": 7,
+    "timestamp": "2026-05-23T10:45:00Z"
+  },
+  {
+    "feedback_id": "RESP-252",
+    "source": "CSAT Survey",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Simultaneous table cell updates overwrite adjacent cells without notifying active editors. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-26T14:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-253",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: When two people edit the same document simultaneously, text blocks frequently get overwritten.",
+    "nps_score": 6,
+    "timestamp": "2026-05-26T16:11:00Z"
+  },
+  {
+    "feedback_id": "RESP-254",
+    "source": "App Store Review",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Real-time cursor presence is jerky and does not accurately track where my colleague is typing. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-26T17:18:00Z"
+  },
+  {
+    "feedback_id": "RESP-255",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Multiplayer collaboration lost my paragraph changes when an unexpected offline sync collision occurred.",
+    "nps_score": 8,
+    "timestamp": "2026-05-23T16:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-256",
+    "source": "App Store Review",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: We experienced a sync collision where comments were duplicated four times on the same board card. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-11T10:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-257",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Slack integration notifications randomly stop firing every other Tuesday without any alert. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T11:37:00Z"
+  },
+  {
+    "feedback_id": "RESP-258",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Our Zapier webhook triggers fail silently without any retry notification or error alert delivery.",
+    "nps_score": 3,
+    "timestamp": "2026-05-10T11:20:00Z"
+  },
+  {
+    "feedback_id": "RESP-259",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. This is causing significant friction for our team daily.",
+    "nps_score": 4,
+    "timestamp": "2026-05-28T10:26:00Z"
+  },
+  {
+    "feedback_id": "RESP-260",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Bi-directional sync with Jira drops custom field updates during sprint transfers. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-20T17:15:00Z"
+  },
+  {
+    "feedback_id": "RESP-261",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Microsoft Teams bot does not display rich card formatting and only posts plain text links. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-06T18:56:00Z"
+  },
+  {
+    "feedback_id": "RESP-262",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-03T09:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-263",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Integration setup requires global org admin permissions which our IT department will not grant. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-20T09:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-264",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream. Please prioritize fixing this in the next release.",
+    "nps_score": 8,
+    "timestamp": "2026-05-08T15:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-265",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Disconnecting and reconnecting Slack deletes existing channel notification routing configurations.",
+    "nps_score": 6,
+    "timestamp": "2026-05-15T15:40:00Z"
+  },
+  {
+    "feedback_id": "RESP-266",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: API rate limit errors do not return retry-after headers causing integration workers to crash. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-11T14:56:00Z"
+  },
+  {
+    "feedback_id": "RESP-267",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Slack integration notifications randomly stop firing every other Tuesday without any alert. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-11T12:39:00Z"
+  },
+  {
+    "feedback_id": "RESP-268",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Our Zapier webhook triggers fail silently without any retry notification or error alert delivery. Please prioritize fixing this in the next release.",
+    "nps_score": 3,
+    "timestamp": "2026-05-04T09:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-269",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. This impacts our organization's daily productivity.",
+    "nps_score": 3,
+    "timestamp": "2026-05-27T14:46:00Z"
+  },
+  {
+    "feedback_id": "RESP-270",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Bi-directional sync with Jira drops custom field updates during sprint transfers. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-16T13:41:00Z"
+  },
+  {
+    "feedback_id": "RESP-271",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Microsoft Teams bot does not display rich card formatting and only posts plain text links.",
+    "nps_score": 8,
+    "timestamp": "2026-05-08T12:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-272",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked.",
+    "nps_score": 8,
+    "timestamp": "2026-05-20T16:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-273",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Integration setup requires global org admin permissions which our IT department will not grant.",
+    "nps_score": 6,
+    "timestamp": "2026-05-09T14:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-274",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-19T17:22:00Z"
+  },
+  {
+    "feedback_id": "RESP-275",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Disconnecting and reconnecting Slack deletes existing channel notification routing configurations. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-17T16:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-276",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: API rate limit errors do not return retry-after headers causing integration workers to crash. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-05T10:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-277",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: Slack integration notifications randomly stop firing every other Tuesday without any alert. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-07T18:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-278",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Our Zapier webhook triggers fail silently without any retry notification or error alert delivery. This impacts our organization's daily productivity.",
+    "nps_score": 2,
+    "timestamp": "2026-05-05T14:40:00Z"
+  },
+  {
+    "feedback_id": "RESP-279",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. We really need a solution for this workflow blocker.",
+    "nps_score": 3,
+    "timestamp": "2026-05-11T18:30:00Z"
+  },
+  {
+    "feedback_id": "RESP-280",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Bi-directional sync with Jira drops custom field updates during sprint transfers. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-19T14:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-281",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Microsoft Teams bot does not display rich card formatting and only posts plain text links. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-16T09:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-282",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked.",
+    "nps_score": 7,
+    "timestamp": "2026-05-26T09:48:00Z"
+  },
+  {
+    "feedback_id": "RESP-283",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Integration setup requires global org admin permissions which our IT department will not grant. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-24T09:47:00Z"
+  },
+  {
+    "feedback_id": "RESP-284",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-05T12:12:00Z"
+  },
+  {
+    "feedback_id": "RESP-285",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Disconnecting and reconnecting Slack deletes existing channel notification routing configurations.",
+    "nps_score": 8,
+    "timestamp": "2026-05-11T15:19:00Z"
+  },
+  {
+    "feedback_id": "RESP-286",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: API rate limit errors do not return retry-after headers causing integration workers to crash. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-28T09:55:00Z"
+  },
+  {
+    "feedback_id": "RESP-287",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Slack integration notifications randomly stop firing every other Tuesday without any alert. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-22T16:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-288",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: Our Zapier webhook triggers fail silently without any retry notification or error alert delivery. Please prioritize fixing this in the next release.",
+    "nps_score": 4,
+    "timestamp": "2026-05-18T14:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-289",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Customer Note: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. This impacts our organization's daily productivity.",
+    "nps_score": 3,
+    "timestamp": "2026-05-09T17:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-290",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Bi-directional sync with Jira drops custom field updates during sprint transfers. Please prioritize fixing this in the next release.",
+    "nps_score": 6,
+    "timestamp": "2026-05-23T16:30:00Z"
+  },
+  {
+    "feedback_id": "RESP-291",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Microsoft Teams bot does not display rich card formatting and only posts plain text links. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-10T10:46:00Z"
+  },
+  {
+    "feedback_id": "RESP-292",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-10T09:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-293",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Integration setup requires global org admin permissions which our IT department will not grant. Please prioritize fixing this in the next release.",
+    "nps_score": 7,
+    "timestamp": "2026-05-24T16:23:00Z"
+  },
+  {
+    "feedback_id": "RESP-294",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Feedback: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-05T10:49:00Z"
+  },
+  {
+    "feedback_id": "RESP-295",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Disconnecting and reconnecting Slack deletes existing channel notification routing configurations. This is causing significant friction for our team daily.",
+    "nps_score": 6,
+    "timestamp": "2026-05-21T12:13:00Z"
+  },
+  {
+    "feedback_id": "RESP-296",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "API rate limit errors do not return retry-after headers causing integration workers to crash. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-04T11:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-297",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Slack integration notifications randomly stop firing every other Tuesday without any alert. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-16T12:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-298",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Our Zapier webhook triggers fail silently without any retry notification or error alert delivery. Please prioritize fixing this in the next release.",
+    "nps_score": 2,
+    "timestamp": "2026-05-25T10:51:00Z"
+  },
+  {
+    "feedback_id": "RESP-299",
+    "source": "User Interview",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. This is causing significant friction for our team daily.",
+    "nps_score": 2,
+    "timestamp": "2026-05-06T15:21:00Z"
+  },
+  {
+    "feedback_id": "RESP-300",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Bi-directional sync with Jira drops custom field updates during sprint transfers. We really need a solution for this workflow blocker.",
+    "nps_score": 7,
+    "timestamp": "2026-05-02T09:29:00Z"
+  },
+  {
+    "feedback_id": "RESP-301",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: Microsoft Teams bot does not display rich card formatting and only posts plain text links. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-15T17:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-302",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Pain Point: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked. This is causing significant friction for our team daily.",
+    "nps_score": 7,
+    "timestamp": "2026-05-07T10:31:00Z"
+  },
+  {
+    "feedback_id": "RESP-303",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Integration setup requires global org admin permissions which our IT department will not grant. We really need a solution for this workflow blocker.",
+    "nps_score": 6,
+    "timestamp": "2026-05-01T14:28:00Z"
+  },
+  {
+    "feedback_id": "RESP-304",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Critical Issue: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-27T15:42:00Z"
+  },
+  {
+    "feedback_id": "RESP-305",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Disconnecting and reconnecting Slack deletes existing channel notification routing configurations.",
+    "nps_score": 5,
+    "timestamp": "2026-05-06T11:40:00Z"
+  },
+  {
+    "feedback_id": "RESP-306",
+    "source": "Support Ticket",
+    "user_segment": "Team Lead",
+    "text": "Customer Note: API rate limit errors do not return retry-after headers causing integration workers to crash. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-08T16:58:00Z"
+  },
+  {
+    "feedback_id": "RESP-307",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Customer Note: Slack integration notifications randomly stop firing every other Tuesday without any alert. Please prioritize fixing this in the next release.",
+    "nps_score": 5,
+    "timestamp": "2026-05-09T14:54:00Z"
+  },
+  {
+    "feedback_id": "RESP-308",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Our Zapier webhook triggers fail silently without any retry notification or error alert delivery.",
+    "nps_score": 5,
+    "timestamp": "2026-05-10T11:35:00Z"
+  },
+  {
+    "feedback_id": "RESP-309",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Critical Issue: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. Please prioritize fixing this in the next release.",
+    "nps_score": 4,
+    "timestamp": "2026-05-12T18:24:00Z"
+  },
+  {
+    "feedback_id": "RESP-310",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Bi-directional sync with Jira drops custom field updates during sprint transfers. This is causing significant friction for our team daily.",
+    "nps_score": 8,
+    "timestamp": "2026-05-24T18:33:00Z"
+  },
+  {
+    "feedback_id": "RESP-311",
+    "source": "Sales Objection",
+    "user_segment": "Individual Contributor",
+    "text": "Pain Point: Microsoft Teams bot does not display rich card formatting and only posts plain text links. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-25T12:53:00Z"
+  },
+  {
+    "feedback_id": "RESP-312",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: We need reliable outgoing webhooks whenever a task status transitions to complete or blocked.",
+    "nps_score": 7,
+    "timestamp": "2026-05-03T18:17:00Z"
+  },
+  {
+    "feedback_id": "RESP-313",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Integration setup requires global org admin permissions which our IT department will not grant. This impacts our organization's daily productivity.",
+    "nps_score": 6,
+    "timestamp": "2026-05-06T14:43:00Z"
+  },
+  {
+    "feedback_id": "RESP-314",
+    "source": "User Interview",
+    "user_segment": "Enterprise Admin",
+    "text": "Pain Point: Webhook deliveries often queue up for an hour during peak morning hours before executing downstream.",
+    "nps_score": 8,
+    "timestamp": "2026-05-03T17:38:00Z"
+  },
+  {
+    "feedback_id": "RESP-315",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Disconnecting and reconnecting Slack deletes existing channel notification routing configurations. We really need a solution for this workflow blocker.",
+    "nps_score": 8,
+    "timestamp": "2026-05-15T18:13:00Z"
+  },
+  {
+    "feedback_id": "RESP-316",
+    "source": "User Interview",
+    "user_segment": "Team Lead",
+    "text": "Critical Issue: API rate limit errors do not return retry-after headers causing integration workers to crash. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-13T13:10:00Z"
+  },
+  {
+    "feedback_id": "RESP-317",
+    "source": "Support Ticket",
+    "user_segment": "Enterprise Admin",
+    "text": "Feedback: Slack integration notifications randomly stop firing every other Tuesday without any alert. This impacts our organization's daily productivity.",
+    "nps_score": 8,
+    "timestamp": "2026-05-12T10:44:00Z"
+  },
+  {
+    "feedback_id": "RESP-318",
+    "source": "Sales Objection",
+    "user_segment": "Enterprise Admin",
+    "text": "Our Zapier webhook triggers fail silently without any retry notification or error alert delivery.",
+    "nps_score": 4,
+    "timestamp": "2026-05-14T11:59:00Z"
+  },
+  {
+    "feedback_id": "RESP-319",
+    "source": "Sales Objection",
+    "user_segment": "Team Lead",
+    "text": "Feedback: Connecting our GitHub repository via webhooks fails with a 401 token authentication error. We really need a solution for this workflow blocker.",
+    "nps_score": 5,
+    "timestamp": "2026-05-28T15:34:00Z"
+  },
+  {
+    "feedback_id": "RESP-320",
+    "source": "Support Ticket",
+    "user_segment": "Individual Contributor",
+    "text": "Bi-directional sync with Jira drops custom field updates during sprint transfers. This impacts our organization's daily productivity.",
+    "nps_score": 7,
+    "timestamp": "2026-05-04T11:44:00Z"
+  }
+]
